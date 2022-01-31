@@ -1,0 +1,57 @@
+body{
+    background-image: url(shutterstock-320151941.jpeg);
+    background-size: cover;
+}
+
+#heading{
+    font-size: 30px;
+    border-radius: 20px;
+}
+
+#page_1_body{
+    background-image: url(Screenshot\ 2022-01-30\ at\ 4.54.06\ PM.png);
+    background-size: cover;
+
+
+}
+
+
+#hehe{
+    background-image: url(haha.png);
+    background-size: cover;
+
+    
+}
+
+
+
+
+
+h1,p{
+    text-align: left;
+}
+
+h1{
+    font-size: 25px;
+}
+
+p{
+    font-size: 20px;
+}
+
+#r04jroj{
+text-align: center;
+color: black;
+
+}
+
+.heading{
+    width: 100%;
+    font-style: bold;
+    font-size: 35px;
+}
+
+#one{
+    font-size:20px ;
+    margin-left: 20px;
+}
